@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Logo animé - Al Noor</title>
+  <style>
+    body {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    video {
+      max-width: 90%;
+      height: auto;
+      border-radius: 16px;
+      box-shadow: 0 0 20px rgba(255,255,255,0.2);
+    }
+  </style>
+</head>
+<body>
+  <video src="Logo Animation Al Noor.mp4" autoplay loop muted playsinline></video>
+</body>
+</html>
